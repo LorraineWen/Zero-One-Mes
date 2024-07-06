@@ -216,23 +216,6 @@ https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#requirem
 | `MongoDB`   | 4.4.17                                                       | https://www.mongodb.com/try/download/community               |
 | `Jenkins`   | latest                                                       | https://www.jenkins.io/zh/doc/book/installing/               |
 
-## 特别鸣谢
-
-`zero-one-mes`的诞生离不开开源软件和社区的支持，感谢以下开源项目及项目维护者：
-
-- `spring`：https://github.com/spring-projects
-- `alibaba`：https://github.com/alibaba
-- `mybatis`：https://github.com/mybatis/mybatis-3.git
-- `mp`：https://github.com/baomidou
-- `api`：https://gitee.com/xiaoym/knife4j
-- `vue`：https://github.com/vuejs
-- `ui`：https://github.com/ElemeFE
-- `oatpp`：https://github.com/oatpp/oatpp
-
-同时也感谢其他没有明确写出来的开源组件提供给与维护者。
-
-## 支持一下
-
 如果觉得框架和项目还不错，点个⭐Star，这将是对**01星球**极大的鼓励与支持。
 
 想了解更多关于计算机方向选择、学习建议等相关信息，可以关注[**01星球B站主页~**](https://space.bilibili.com/1653229811?spm_id_from=333.1007.0.0)
